@@ -8,4 +8,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,linux,arch,neovim)](https://skillicons.dev)
 
 
-<img src="https://raw.githubusercontent.com/72-S/72-S/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/objz/objz/output/snake.svg" alt="Snake animation" />
