@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 * I'm based in Bavaria - Germany
-* I'm currently active working on [CommandBridge](https://github.com/objz/CommandBridge) and [papyrust](https://github.com/objz/papyrust)
+* I'm currently active working on [CommandBridge](https://github.com/objz/CommandBridge)
 * Also working on other sideprojects, but not that frequently
 
 my personal website -> https://objz.dev
